@@ -8,3 +8,4 @@ This is a fresh line from fixing
 This is mars.
 Simply adding a fresh line. It should not conflict.
 It is final branch. It should not conflict.
+This is the end branch. This is my final learning. Should conflict come.
