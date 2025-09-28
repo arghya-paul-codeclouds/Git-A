@@ -1,2 +1,3 @@
 Oh my God!
 two - added line from feature.
+Here we add a new feature.
