@@ -1,2 +1,2 @@
-one - added line from master.
+
 two - added line from feature.
